@@ -1,0 +1,5 @@
+function regHandlers() {
+    //
+}
+
+export { regHandlers };
